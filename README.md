@@ -19,3 +19,27 @@ OBS: O Nome de cada aluno não deverá ultrapassar 30 caracteres e contém apena
 Saída
 Para cada caso de teste, deve-se apresentar a mensagem Vencedor(a): xxxxxx, com um espaço após o sinal ":" indicando qual é o aluno do grupo que venceu a brincadeira.
 </p>
+
+<h3>Exemplo:</h3>
+
+<p>Entrada</p>
+3<br>
+Fernanda 7<br>
+Fernando 9<br>
+Gustavo 11<br>
+5<br>
+Maria 7<br>
+Pedro 9<br>
+Joao_Vitor 5<br>
+Isabel 12<br>
+Laura 8<br>
+3<br>
+Maria 4<br>
+Pedro 3<br>
+Joao 2<br>
+0<br>
+
+<p>Saída</p>
+Vencedor(a): Fernanda<br>
+Vencedor(a): Pedro<br>
+Vencedor(a): Pedro<br>
