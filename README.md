@@ -1,5 +1,6 @@
 # Gincana-no-Acampamento
-Desafio técnico JS de um bootcamp DIO
+Desafio técnico JS de um bootcamp DIO, que exige uma lógica interessante.<br>
+Com certeza, deve dar para melhorar, mas ainda estou estudando.
 
 <h3>Desafio</h3>
 <p>
